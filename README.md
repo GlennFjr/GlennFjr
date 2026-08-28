@@ -1,65 +1,103 @@
 # Glenn Fortunato
 
-Computer Science graduate from Florida Atlantic University with a minor in Artificial Intelligence. My background includes software development, data analysis, and machine learning.
+Computer Science graduate from Florida Atlantic University with a minor in Artificial Intelligence. My background includes data analysis, software development, and machine learning.
 
-I’ve worked with Python, JavaScript, SQL, C++, React, React Native, Pandas, NumPy, Scikit-learn, Power BI, Excel, and Supabase.
+I have experience working with Python, JavaScript, SQL, React, React Native, Pandas, NumPy, Scikit-learn, Power BI, Excel, and Supabase.
 
-I’m currently looking for opportunities in software engineering, data analytics, or machine learning.
+I am currently seeking opportunities in data analytics, software engineering, and machine learning.
 
-## Projects
+## Featured Projects
 
-### The Nexus
-[View repository](https://github.com/GlennFjr/The-Nexus)
+### Student Retention Prediction Model
 
-Full-stack discussion forum built with React and Supabase.
+[View repository](https://github.com/GlennFjr/Student-Retention-Prediction-Model)
 
-Features include:
-- User authentication
-- Creating, editing, and deleting posts
-- Comments and upvoting
-- Search and sorting
-- Category filtering
-- Image uploads and embedded video support
-- User-based permissions for editing and deleting content
+Machine learning project developed from work completed during my Data Analyst internship at Florida Atlantic University.
 
-Tech: React, JavaScript, Supabase, CSS, Vite
+The project uses academic, demographic, and engagement-related data to predict whether students are at risk of not being retained. It supports multiple classification models and compares performance with and without Student Affairs engagement features.
+
+Highlights:
+- Logistic Regression, Random Forest, Neural Network, and XGBoost
+- Stratified 10-fold cross-validation
+- Classification threshold tuning
+- Precision, recall, F1, specificity, and ROC AUC evaluation
+- Comparison of academic data with Student Affairs engagement data
+- Automated preprocessing for numerical and categorical features
+
+Tech: Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib
 
 ---
 
 ### Owl Commuter Assistant
 
-Cross-platform mobile application for campus commuting.
+[View project repository](PASTE_PRIVATE_OWL_REPOSITORY_URL_HERE)
 
-The app includes parking availability, shuttle tracking, commute planning, and map-based visualization. I also implemented permit-based parking filters and local storage for user preferences.
+[View public parking data](https://github.com/GlennFjr/OwlCommuterAssistant-Parking)
+
+Cross-platform mobile application designed to help Florida Atlantic University students plan their commute to campus.
+
+The application combines parking availability, shuttle information, commute planning, and map-based visualization into a single mobile interface.
+
+Highlights:
+- Interactive Google Maps integration
+- Color-coded parking availability
+- Permit-based parking filters
+- Shuttle tracking and commute planning
+- External JSON data integration
+- Local persistence for user favorites
 
 Tech: React Native, JavaScript, Google Maps API, AsyncStorage
 
+*The primary project repository is private, but the link is included for authorized viewers.*
+
 ---
 
-### Student Retention Prediction Model
+### The Nexus
 
-Machine learning project developed during my time as a Data Analyst Intern at Florida Atlantic University.
+[View repository](https://github.com/GlennFjr/The-Nexus)
 
-I worked with student data to build and compare multiple classification models for predicting student retention.
+Full-stack community discussion forum built with React and Supabase.
 
-Models used:
-- Logistic Regression
-- Random Forest
-- Neural Network
+Highlights:
+- User authentication
+- Create, edit, and delete posts
+- Author-based permissions
+- Comments and upvoting
+- Search, sorting, and category filtering
+- Image uploads and embedded video support
+- Persistent data storage with Supabase
 
-I also created visualizations, including an ROC curve, to evaluate model performance.
+Tech: React, JavaScript, Supabase, CSS, Vite
 
-Tech: Python, Pandas, NumPy, Scikit-learn
+---
+
+### Stock Analytics Dashboard
+
+[View repository](https://github.com/GlennFjr/Stock-Dashboard-Improved)
+
+React dashboard that retrieves stock market data through the Finnhub API and presents it through searchable tables, detail pages, and visualizations.
+
+Highlights:
+- Stock price and market data from an external API
+- Search and filtering
+- Summary statistics
+- Individual stock detail pages
+- Dynamic routing
+- Multiple data visualizations
+- Conditional price indicators
+
+Tech: React, JavaScript, Finnhub API, React Router, CSS
 
 ---
 
 ### Exploratory Data Analysis and Visualization
-[View repository](https://github.com/GlennFjr/Pandas-Seaborn-DataVisualization-Assignment)
+
+[View repository](https://github.com/GlennFjr/Python-Exploratory-Data-Analysis)
 
 Exploratory analysis of penguin and telescope datasets using Python.
 
 The project includes:
-- Data cleaning
+- Data cleaning and preparation
 - Descriptive statistics
 - Correlation analysis
 - Pair plots
@@ -68,26 +106,52 @@ The project includes:
 
 Tech: Python, Pandas, NumPy, Seaborn, Matplotlib
 
+## Additional Projects
+
+### Survivor Team Builder
+
+[View repository](https://github.com/GlennFjr/Survivor-Team-Builder)
+
+React and Supabase application for creating and managing a team of survivors with roles, traits, skill levels, and an overall team strength rating.
+
+Tech: React, JavaScript, Supabase, React Router
+
+### Gen 1 Pokédex Explorer
+
+[View repository](https://github.com/GlennFjr/Gen-1-Pok-dex-Explorer)
+
+React application that retrieves random Generation 1 Pokémon from an API and allows users to filter future results by banning specific attributes.
+
+Tech: React, JavaScript, REST API, CSS
+
+### Samosa Clicker
+
+[View repository](https://github.com/GlennFjr/Samosa-Clicker)
+
+Small React clicker application focused on state management, upgrade logic, and interactive UI behavior.
+
+Tech: React, JavaScript, CSS
+
 ## Experience
 
-### Data Analyst Intern
-Florida Atlantic University
+### Data Analyst Intern — Florida Atlantic University
 
-- Worked with large institutional datasets
-- Used Python and Pandas for data extraction and analysis
+- Worked with large institutional datasets for reporting and analysis
+- Used Python and Pandas for data extraction and processing
 - Generated the university master census
 - Created reports and visualizations using Power BI, Excel, and RStudio
+- Developed a machine learning model for student retention analysis
 
-### AI Model Trainer
-DataAnnotation
+### AI Model Trainer — DataAnnotation
 
-- Evaluated AI-generated code for accuracy and quality
-- Created coding challenges for AI systems
+- Evaluated AI-generated programming responses for correctness and quality
+- Developed programming challenges for AI systems
 - Reviewed technical solutions against defined requirements
 
 ## Education
 
-Florida Atlantic University  
+**Florida Atlantic University**
+
 Bachelor of Science in Computer Science  
 Minor in Artificial Intelligence
 
@@ -100,12 +164,12 @@ Relevant coursework:
 
 **Languages:** Python, JavaScript, SQL, C++, HTML/CSS
 
-**Data and Machine Learning:** Pandas, NumPy, Scikit-learn, Power BI, Excel, RStudio
+**Data and Machine Learning:** Pandas, NumPy, Scikit-learn, XGBoost, Power BI, Excel, RStudio
 
-**Development:** React, React Native, Supabase, Git, GitHub, Object-Oriented Programming
+**Development:** React, React Native, Supabase, Git/GitHub, REST APIs, Object-Oriented Programming
 
 ## Contact
 
-GitHub: https://github.com/GlennFjr  
-LinkedIn: [add your LinkedIn]  
-Portfolio: [add your portfolio]
+GitHub: GlennFjr  
+LinkedIn: ADD_LINKEDIN_URL  
+Portfolio: ADD_PORTFOLIO_URL
