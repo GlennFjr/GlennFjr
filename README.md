@@ -32,8 +32,6 @@ Tech: Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib
 
 [View project repository](PASTE_PRIVATE_OWL_REPOSITORY_URL_HERE)
 
-[View public parking data](https://github.com/GlennFjr/OwlCommuterAssistant-Parking)
-
 Cross-platform mobile application designed to help Florida Atlantic University students plan their commute to campus.
 
 The application combines parking availability, shuttle information, commute planning, and map-based visualization into a single mobile interface.
