@@ -1,125 +1,93 @@
-# Hi, I'm Glenn Fortunato 👋
+# Glenn Fortunato
 
-I'm a Computer Science graduate from Florida Atlantic University with a minor in Artificial Intelligence. I'm interested in building software and using data to solve practical problems, with a particular focus on **Software Engineering, Data Analytics, and Machine Learning**.
+Computer Science graduate from Florida Atlantic University with a minor in Artificial Intelligence. My background includes software development, data analysis, and machine learning.
 
-I have experience working with large datasets, developing data visualizations, building full-stack applications, and training predictive models.
+I’ve worked with Python, JavaScript, SQL, C++, React, React Native, Pandas, NumPy, Scikit-learn, Power BI, Excel, and Supabase.
 
-## 💻 Technical Skills
+I’m currently looking for opportunities in software engineering, data analytics, or machine learning.
 
-### Languages
-Python • JavaScript • SQL • C++ • HTML/CSS
+## Projects
 
-### Data & Machine Learning
-Pandas • NumPy • Scikit-learn • Power BI • Excel • RStudio
+### The Nexus
+[View repository](https://github.com/GlennFjr/The-Nexus)
 
-### Software Development
-React • React Native • Supabase • REST APIs • Git/GitHub • Object-Oriented Programming
+Full-stack discussion forum built with React and Supabase.
 
-### Currently Exploring
-Machine Learning • Data Analytics • Full-Stack Development
+Features include:
+- User authentication
+- Creating, editing, and deleting posts
+- Comments and upvoting
+- Search and sorting
+- Category filtering
+- Image uploads and embedded video support
+- User-based permissions for editing and deleting content
 
----
-
-## 🚀 Featured Projects
-
-### 🌐 [The Nexus](https://github.com/GlennFjr/The-Nexus)
-
-A full-stack community discussion platform built with React and Supabase.
-
-**Highlights:**
-- User authentication and authorization
-- Create, read, update, and delete posts
-- Comments and user-based permissions
-- Search, sorting, and category filtering
-- Upvoting and media uploads
-- Persistent data storage with Supabase
-
-**Tech:** React • JavaScript • Supabase • CSS • Vite
+Tech: React, JavaScript, Supabase, CSS, Vite
 
 ---
 
-### 🚗 Owl Commuter Assistant
+### Owl Commuter Assistant
 
-A cross-platform mobile application designed to improve campus commuting at Florida Atlantic University.
+Cross-platform mobile application for campus commuting.
 
-**Highlights:**
-- Interactive Google Maps integration
-- Parking availability visualization
-- Color-coded parking lot status
-- Permit-based parking filters
-- Shuttle tracking and commute planning
-- Local data persistence for user favorites
+The app includes parking availability, shuttle tracking, commute planning, and map-based visualization. I also implemented permit-based parking filters and local storage for user preferences.
 
-**Tech:** React Native • JavaScript • Google Maps API • AsyncStorage
-
-<!-- Add repository link here once the project is publicly available -->
+Tech: React Native, JavaScript, Google Maps API, AsyncStorage
 
 ---
 
-### 🤖 Student Retention Prediction Model
+### Student Retention Prediction Model
 
-A machine-learning project developed while working as a Data Analyst Intern at Florida Atlantic University.
+Machine learning project developed during my time as a Data Analyst Intern at Florida Atlantic University.
 
-The project explored whether student retention could be predicted using academic and engagement-related characteristics.
+I worked with student data to build and compare multiple classification models for predicting student retention.
 
-**Models:**
+Models used:
 - Logistic Regression
 - Random Forest
 - Neural Network
 
-**Highlights:**
-- Data preparation and feature analysis
-- Predictive modeling using multiple classification approaches
-- Model evaluation and comparison
-- ROC curve visualization
+I also created visualizations, including an ROC curve, to evaluate model performance.
 
-**Tech:** Python • Pandas • NumPy • Scikit-learn
-
-<!-- Add repository or portfolio case-study link here if available -->
+Tech: Python, Pandas, NumPy, Scikit-learn
 
 ---
 
-### 📊 [Exploratory Data Analysis & Visualization](https://github.com/GlennFjr/Pandas-Seaborn-DataVisualization-Assignment)
+### Exploratory Data Analysis and Visualization
+[View repository](https://github.com/GlennFjr/Pandas-Seaborn-DataVisualization-Assignment)
 
 Exploratory analysis of penguin and telescope datasets using Python.
 
-**Highlights:**
-- Data cleaning and preparation
+The project includes:
+- Data cleaning
 - Descriptive statistics
-- Distribution analysis
 - Correlation analysis
-- Pair plots and heatmaps
-- Numerical and categorical visualization
+- Pair plots
+- Heatmaps
+- Numerical and categorical visualizations
 
-**Tech:** Python • Pandas • NumPy • Seaborn • Matplotlib
+Tech: Python, Pandas, NumPy, Seaborn, Matplotlib
 
----
+## Experience
 
-## 📈 Professional Experience
+### Data Analyst Intern
+Florida Atlantic University
 
-### Data Analyst Intern — Florida Atlantic University
+- Worked with large institutional datasets
+- Used Python and Pandas for data extraction and analysis
+- Generated the university master census
+- Created reports and visualizations using Power BI, Excel, and RStudio
 
-Worked with institutional datasets to support university analysis and reporting.
+### AI Model Trainer
+DataAnnotation
 
-- Extracted and analyzed data from large datasets
-- Created data visualizations and analytical reports
-- Used Python and Pandas to generate the university master census
-- Worked with Power BI, Excel, and RStudio
+- Evaluated AI-generated code for accuracy and quality
+- Created coding challenges for AI systems
+- Reviewed technical solutions against defined requirements
 
-### AI Model Trainer — DataAnnotation
+## Education
 
-Worked on evaluating and improving AI-generated programming responses.
-
-- Evaluated AI-generated code for correctness and quality
-- Developed programming challenges for AI systems
-- Reviewed solutions against technical requirements
-
----
-
-## 🎓 Education
-
-**Florida Atlantic University**
-
+Florida Atlantic University  
 Bachelor of Science in Computer Science  
 Minor in Artificial Intelligence
 
@@ -128,23 +96,16 @@ Relevant coursework:
 - Data Science Analytics
 - Deep Learning
 
----
+## Skills
 
-## 🏆 Certifications & Achievements
+**Languages:** Python, JavaScript, SQL, C++, HTML/CSS
 
-- President's Honor List & Dean's List — Florida Atlantic University
-- Intellectual Property Certificate — National Academy of Inventors
-- Microsoft Power BI — Dashboard in a Day
-- Google / Coursera — Using Python to Interact with the Operating System
+**Data and Machine Learning:** Pandas, NumPy, Scikit-learn, Power BI, Excel, RStudio
 
----
+**Development:** React, React Native, Supabase, Git, GitHub, Object-Oriented Programming
 
-## 📫 Connect With Me
+## Contact
 
-- 💼 LinkedIn: [Add LinkedIn URL]
-- 🌐 Portfolio: [Add portfolio URL]
-- 📧 Email: [Your professional email]
-
----
-
-*Currently seeking opportunities in Software Engineering, Data Analytics, and Machine Learning.*
+GitHub: https://github.com/GlennFjr  
+LinkedIn: [add your LinkedIn]  
+Portfolio: [add your portfolio]
